@@ -1,4 +1,4 @@
-# Workflow License (DRAFT, to be finalized by workflow author)
+# Test Workflow License 
 
 Copyright (c) 2018 University of Washington
 
