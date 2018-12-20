@@ -16,7 +16,7 @@ Aquarium, Protocol, Test, Widget
 
 ### Details
 This workflow and these documents were automatically generated from
-[Aquarium](http://klavinslab.org) version 2.5.0 alpha and
+[Aquarium](http://www.aquarium.bio) version 2.5.0 alpha and
 [aquadoc](https://github.com/klavinslab/aquadoc) version 1.0.0.
 Make sure that you are running the same or a newer version of Aquarium before you attempt to
 import workflow.
